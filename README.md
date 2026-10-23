@@ -4,5 +4,3 @@ Demonstração mobile-first com três direções visuais: Editorial, Vitrine e I
 
 A imagem e alguns textos são conceituais; fotos, produtos, identidade e conteúdo final precisam de validação do negócio. Os CTAs levam ao WhatsApp para consultar a equipe.
 
-[Ver a arte de apresentação](presentation-board.jpg)
-
